@@ -31,3 +31,6 @@ Anaconda, Python, Keras, PyTorch, MTCNN, DenseNet, SVM.
 
 # Evaluation Metrics
 Accuracy= 96.7%, Log Loss= 0.138, Matthew Correlation Coefficient= 0.902, Balanced Accuracy= 0.795
+
+# License
+This work is under MIT standard LICENSE. 
